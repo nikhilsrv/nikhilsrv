@@ -8,7 +8,7 @@ A third-year student at MMMUT,Gorakhpur  passionate for software development and
 * Pursuing B.tech in Information Technology at MMMUT,Gorakhpur.
 * Learning full stack development.
 * [Resume](https://drive.google.com/file/d/1WSEKl2LQeC-3smx9-wqX6JDrgv2f_vD-/view?usp=sharing)
-* [Portfolio](https://65ec23fbcda6dc7a18d25c21--euphonious-florentine-1fac76.netlify.app/)
+* [Portfolio](https://www.nikhilsrv.page/)
 
 ### SKILLS :
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwindcss,javascript,react,nodejs,express,mongodb,&theme=light)](https://skillicons.dev)
