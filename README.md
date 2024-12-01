@@ -7,7 +7,7 @@ A third-year student at MMMUT,Gorakhpur  passionate for software development and
 ### ABOUT :
 * Pursuing B.tech in Information Technology at MMMUT,Gorakhpur.
 * Learning full stack development.
-* [Resume](https://drive.google.com/file/d/1WSEKl2LQeC-3smx9-wqX6JDrgv2f_vD-/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/1snWLn6X4FiN6-wE7Mkm56Zx4dRqiP7A2/view?usp=sharing)
 * [Portfolio](https://www.nikhilsrv.page/)
 
 ### SKILLS :
