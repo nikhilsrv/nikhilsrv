@@ -1,12 +1,10 @@
 ### Hi there 👋 I am Nikhil Srivastava
-![development-4536630_1280](https://github.com/nikhilsrv/nikhilsrv/assets/108658668/b4eae534-5a9f-4648-9736-70c25e33d89c)
-
 
 As a recent graduate with a Bachelor of Technology in Information Technology from Madan Mohan Malaviya University of Technology, I am deeply passionate about building impactful software solutions and user-centric web applications. With hands-on experience as a Full Stack Developer at Digirocket Technologies, I’ve developed and deployed real-world applications—from e-commerce platforms to content management systems—leveraging technologies like React.js, Node.js, MongoDB, and PostgreSQL. My technical background, combined with a strong foundation in data structures, algorithms, and systems, enables me to design scalable, secure, and responsive applications. I aspire to grow as a Software Developer or Full Stack Developer, contributing to innovative teams where I can continue learning, solving real-world problems, and creating seamless digital experiences that add value to users and businesses alike.
 
 ### ABOUT :
-* Pursuing B.tech in Information Technology at MMMUT,Gorakhpur.
-* Learning full stack development.
+* Graduate in Information Technology from MMMUT,Gorakhpur.
+* Full Stack Developer.
 * [Resume](https://drive.google.com/file/d/1snWLn6X4FiN6-wE7Mkm56Zx4dRqiP7A2/view?usp=sharing)
 * [Portfolio](https://www.nikhilsrv.page/)
 
