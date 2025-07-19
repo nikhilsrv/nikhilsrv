@@ -17,10 +17,5 @@ As a recent graduate with a Bachelor of Technology in Information Technology fro
 
 ### CODING PROFILES :
 <a href="https://leetcode.com/nikhilsrv2017/"><img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="50"></img></a> 
-### Opensource Contributions:
-* Participated in Hacktoberfest 2022 :
-![Screenshot (513)](https://user-images.githubusercontent.com/108658668/210163610-41369558-9b67-4dad-89a7-5d9c4d0303e8.png)
-* Participated in Kharagpur Winter of Code 2022 :
-  * Total 8 pull requests successfully merged in [Javascript Projects](https://github.com/Shweta2024/JavaScript-Projects)
-  * [nikhilsrv.pdf](https://github.com/nikhilsrv/nikhilsrv/files/14551813/nikhilsrv.pdf)
+
 
