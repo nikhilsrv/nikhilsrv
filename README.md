@@ -10,11 +10,6 @@ As a recent graduate with a Bachelor of Technology in Information Technology fro
 ### SKILLS :
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwindcss,javascript,react,nodejs,express,mongodb,mysql,postgresql&theme=light)](https://skillicons.dev)
 
-### PROJECTS :
-* Youtube Clone - Search and play songs,build using rapid api.[Try it here](https://transcendent-crostata-c31ecd.netlify.app/) &emsp; [Code](https://github.com/nikhilsrv/YouTube-Clone)
-* Certificate Generator - Generate multiple certificates,by providing all the names, at once.[Try it here](https://certificate-generator-c1wk.onrender.com/) &emsp;  [Code](https://github.com/nikhilsrv/Certificate-Generator)
-* Sorting Visualizer - Visualize various sorting algorithms like merge sort,quick sort etc.[Try it here](https://nikhilsrv.github.io/sorting-visulaizer/) &emsp;  [Code](https://github.com/nikhilsrv/sorting-visualizer)
-
 ### CODING PROFILES :
 <a href="https://leetcode.com/nikhilsrv2017/"><img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="50"></img></a> 
 
