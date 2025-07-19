@@ -8,7 +8,7 @@ As a recent graduate with a Bachelor of Technology in Information Technology fro
 * [Portfolio](https://www.nikhilsrv.page/)
 
 ### SKILLS 💻 :
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwindcss,javascript,react,nodejs,express,mongodb,mysql,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwindcss,bootstrap,prisma,javascript,react,nodejs,express,mongodb,mysql,firebase,npm,postgresql,postman,vscode,git,githubl&theme=light)](https://skillicons.dev)
 
 ### CONNECT WITH ME ✨ : 
 <a href="https://leetcode.com/nikhilsrv2017/"><img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="50"></img></a> 
