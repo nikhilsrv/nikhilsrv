@@ -4,8 +4,7 @@ As a recent graduate with a Bachelor of Technology in Information Technology fro
 
 ### ABOUT :
 * Graduate in Information Technology from MMMUT,Gorakhpur.
-* Full Stack Developer.
-* [Resume](https://drive.google.com/file/d/1wxV1xY3viX4MauqccPt93grr-iDtOqlb/view)
+* Full Stack Developer @ Digirocket Technologies .
 * [Portfolio](https://www.nikhilsrv.page/)
 
 ### SKILLS :
